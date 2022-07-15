@@ -1,0 +1,16 @@
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.exe
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.deps.json
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.runtimeconfig.json
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.runtimeconfig.dev.json
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.dll
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\bin\Debug\net5.0\IMC2.pdb
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.csproj.AssemblyReference.cache
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.GeneratedMSBuildEditorConfig.editorconfig
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.AssemblyInfoInputs.cache
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.AssemblyInfo.cs
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.csproj.CoreCompileInputs.cache
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.dll
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\refint\IMC2.dll
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.pdb
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\IMC2.genruntimeconfig.cache
+E:\je-fa\Documents\Bootcamp_Gen\IMC2\IMC2\obj\Debug\net5.0\ref\IMC2.dll
